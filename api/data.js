@@ -1,0 +1,1 @@
+const db = require('../data/db.json'); module.exports = (req,res) => { res.setHeader('Cache-Control','public, max-age=60'); res.status(200).json({demo:true,...db}); };

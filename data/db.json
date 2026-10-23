@@ -1,0 +1,132 @@
+{
+  "businesses": [
+    {
+      "name": "Sahyadri Naturals",
+      "name_mr": "सह्याद्री नॅचरल्स",
+      "district": "Pune",
+      "district_mr": "पुणे",
+      "category": "Food & farming",
+      "category_mr": "अन्न आणि शेती",
+      "initial": "SN",
+      "initial_mr": "सन",
+      "description": "Small-batch millet mixes and farm-grown produce.",
+      "description_mr": "लहान बॅचमधील बाजरी-तृणधान्य मिश्रण आणि शेतातील ताजी उत्पादने.",
+      "owner": "Demo entrepreneur · Asha",
+      "owner_mr": "डेमो उद्योजक · आशा",
+      "color": "#e7eddd"
+    },
+    {
+      "name": "Warli Collective",
+      "name_mr": "वारली कलेक्टिव्ह",
+      "district": "Palghar",
+      "district_mr": "पालघर",
+      "category": "Handicrafts",
+      "category_mr": "हस्तकला",
+      "initial": "WC",
+      "initial_mr": "वक",
+      "description": "Traditional Warli-inspired art and handmade gifts.",
+      "description_mr": "पारंपरिक वारली कला आणि हाताने बनवलेल्या भेटवस्तू.",
+      "owner": "Demo entrepreneur · Meera",
+      "owner_mr": "डेमो उद्योजक · मीरा",
+      "color": "#f5e1cf"
+    },
+    {
+      "name": "Godavari Stitches",
+      "name_mr": "गोदावरी स्टिचेस",
+      "district": "Nashik",
+      "district_mr": "नाशिक",
+      "category": "Textiles",
+      "category_mr": "वस्त्रोद्योग",
+      "initial": "GS",
+      "initial_mr": "गस",
+      "description": "Everyday tailoring and hand-stitched cotton bags.",
+      "description_mr": "रोजचे टेलरिंग आणि हाताने शिवलेल्या सुती पिशव्या.",
+      "owner": "Demo entrepreneur · Kavita",
+      "owner_mr": "डेमो उद्योजक · कविता",
+      "color": "#e4e3f2"
+    },
+    {
+      "name": "Konkan Harvest",
+      "name_mr": "कोकण हार्वेस्ट",
+      "district": "Ratnagiri",
+      "district_mr": "रत्नागिरी",
+      "category": "Food & farming",
+      "category_mr": "अन्न आणि शेती",
+      "initial": "KH",
+      "initial_mr": "कह",
+      "description": "Seasonal fruit preserves made close to the orchard.",
+      "description_mr": "बागेजवळ बनवलेले फळांचे हंगामी टिकाऊ पदार्थ आणि मुरांबे.",
+      "owner": "Demo entrepreneur · Ramesh",
+      "owner_mr": "डेमो उद्योजक · रमेश",
+      "color": "#f6eccb"
+    }
+  ],
+  "resources": [
+    {
+      "id": "digital",
+      "category": "Digital skills",
+      "category_mr": "डिजिटल कौशल्ये",
+      "title": "Your first digital storefront",
+      "title_mr": "तुमचे पहिले डिजिटल दुकान",
+      "minutes": 5,
+      "body": "Start with one product. Take a clear photo in daylight. Write the price, quantity, delivery area and contact method. Share only information you are comfortable making public. Keep an offline copy of your product list. Update prices before accepting an order.",
+      "body_mr": "एका उत्पादनाने सुरुवात करा. दिवसाच्या चांगल्या प्रकाशात स्पष्ट फोटो काढा. किंमत, प्रमाण, पोहोचवण्याचा परिसर आणि संपर्क क्रमांक लिहा. सार्वजनिक करू शकता अशीच माहिती सामायिक करा. तुमच्या उत्पादनांची एक ऑफलाइन प्रत जपून ठेवा. ऑर्डर स्वीकारण्यापूर्वी किमती नक्की तपासा."
+    },
+    {
+      "id": "payments",
+      "category": "Money matters",
+      "category_mr": "आर्थिक व्यवहार",
+      "title": "Safer digital payments",
+      "title_mr": "सुरक्षित डिजिटल पेमेंट पद्धती",
+      "minutes": 4,
+      "body": "Never share your UPI PIN or OTP. You do not need to enter a PIN to receive money. Verify payment in your own bank app, not a customer screenshot. Avoid unknown payment links. If a payment is pending, wait for confirmation before sending goods.",
+      "body_mr": "तुमचा UPI पिन किंवा OTP कधीही कोणाशीही सामायिक करू नका. पैसे मिळवण्यासाठी पिन टाकण्याची अजिबात गरज नसते. पैसे आल्याची खात्री ग्राहकाच्या स्क्रीनशॉटवरून न करता स्वतःच्या बँक ॲपमध्ये करा. अनोळखी पेमेंट लिंक्सवर क्लिक करणे टाळा. पैसे प्रलंबित असल्यास माल पाठवण्यापूर्वी खात्री करा."
+    },
+    {
+      "id": "power",
+      "category": "Resilient business",
+      "category_mr": "सशक्त व्यवसाय",
+      "title": "Keep working when the power goes out",
+      "title_mr": "वीज नसतानाही काम सुरू ठेवा",
+      "minutes": 3,
+      "body": "Charge essential devices when power is available. Keep a paper order register and printed price list. Save learning resources offline before travelling. Use battery saver and lower screen brightness. Confirm backup power equipment with a qualified technician.",
+      "body_mr": "वीज उपलब्ध असताना आवश्यक ती उपकरणे चार्ज करून ठेवा. कागदी नोंदवही आणि छापील दरपत्रक जवळ ठेवा. प्रवासाला निघण्यापूर्वी आवश्यक माहिती ऑफलाइन सेव्ह करून घ्या. बॅटरी सेव्हर वापरा आणि ब्राइटनेस कमी ठेवा. इन्व्हर्टर किंवा बॅकअप उपकरणे तज्ज्ञ तंत्रज्ञांकडून तपासून घ्या."
+    },
+    {
+      "id": "pricing",
+      "category": "Business basics",
+      "category_mr": "व्यवसाय पाया",
+      "title": "Price your products with confidence",
+      "title_mr": "उत्पादनांची किंमत आत्मविश्वासाने ठरवा",
+      "minutes": 6,
+      "body": "Add materials, packaging, transport and a fair value for your time. Divide total costs by the number of saleable units. Add your desired profit per unit. Compare with local prices, but do not ignore your own costs. Record each sale and review your margin monthly.",
+      "body_mr": "कच्चा माल, पॅकेजिंग, वाहतूक आणि तुमच्या मेहनतीचे योग्य मूल्य यात जोडा. एकूण खर्चाला विक्रीयोग्य नगसंख्येने भागा. प्रति नग तुमचा अपेक्षित नफा जोडा. स्थानिक बाजारातील दरांशी तुलना करा, पण स्वतःच्या खर्चाकडे दुर्लक्ष करू नका. प्रत्येक विक्रीची नोंद ठेवा आणि दरमहा नफ्याचा आढावा घ्या."
+    }
+  ],
+  "hubs": [
+    {
+      "name": "Pune community hub",
+      "name_mr": "पुणे कम्युनिटी केंद्र",
+      "district": "Pune",
+      "district_mr": "पुणे",
+      "description": "Demo location: shared-device access and digital skills sessions.",
+      "description_mr": "डेमो ठिकाण: सामायिक उपकरणे आणि डिजिटल कौशल्यांचे मार्गदर्शन सत्रे."
+    },
+    {
+      "name": "Nashik learning circle",
+      "name_mr": "नाशिक अध्ययन मंडळ",
+      "district": "Nashik",
+      "district_mr": "नाशिक",
+      "description": "Demo location: peer learning and offline resource sharing.",
+      "description_mr": "डेमो ठिकाण: परस्पर सहकार्याने शिकणे आणि ऑफलाइन माहितीचे आदानप्रदान."
+    },
+    {
+      "name": "Konkan enterprise desk",
+      "name_mr": "कोकण उद्योग डेस्क",
+      "district": "Ratnagiri",
+      "district_mr": "रत्नागिरी",
+      "description": "Demo location: business guidance and connectivity support.",
+      "description_mr": "डेमो ठिकाण: व्यवसाय मार्गदर्शन आणि कनेक्टिव्हिटी साहाय्य."
+    }
+  ]
+}
